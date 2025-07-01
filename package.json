@@ -1,0 +1,13 @@
+{
+  "name": "asymmetry-between-resolves-and-rejects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.3"
+  }
+}
